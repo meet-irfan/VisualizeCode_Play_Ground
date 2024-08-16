@@ -1,0 +1,7 @@
+C:\Users\zohaib Bhai\source\repos\Task_03\bin\Debug\Task_03.exe.config
+C:\Users\zohaib Bhai\source\repos\Task_03\bin\Debug\Task_03.exe
+C:\Users\zohaib Bhai\source\repos\Task_03\bin\Debug\Task_03.pdb
+C:\Users\zohaib Bhai\source\repos\Task_03\obj\Debug\Task_03.csproj.AssemblyReference.cache
+C:\Users\zohaib Bhai\source\repos\Task_03\obj\Debug\Task_03.csproj.CoreCompileInputs.cache
+C:\Users\zohaib Bhai\source\repos\Task_03\obj\Debug\Task_03.exe
+C:\Users\zohaib Bhai\source\repos\Task_03\obj\Debug\Task_03.pdb
