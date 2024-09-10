@@ -1,0 +1,13 @@
+C:\Users\zohaib Bhai\source\repos\Second_project\bin\Debug\Second_project.exe.config
+C:\Users\zohaib Bhai\source\repos\Second_project\bin\Debug\Second_project.exe
+C:\Users\zohaib Bhai\source\repos\Second_project\bin\Debug\Second_project.pdb
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.csproj.AssemblyReference.cache
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.Form1.resources
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.Form2.resources
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.Form3.resources
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.Form4.resources
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.Properties.Resources.resources
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.csproj.GenerateResource.cache
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.csproj.CoreCompileInputs.cache
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.exe
+C:\Users\zohaib Bhai\source\repos\Second_project\obj\Debug\Second_project.pdb
