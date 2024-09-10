@@ -1,0 +1,6 @@
+C:\Users\zohaib Bhai\source\repos\projects_07\obj\Debug\projects_07.csproj.AssemblyReference.cache
+C:\Users\zohaib Bhai\source\repos\projects_07\obj\Debug\projects_07.RadioButtonExample.Form1.resources
+C:\Users\zohaib Bhai\source\repos\projects_07\obj\Debug\projects_07.Properties.Resources.resources
+C:\Users\zohaib Bhai\source\repos\projects_07\obj\Debug\projects_07.csproj.GenerateResource.cache
+C:\Users\zohaib Bhai\source\repos\projects_07\obj\Debug\projects_07.csproj.CoreCompileInputs.cache
+C:\Users\zohaib Bhai\source\repos\projects_07\obj\Debug\RadioButtonExample.Form1.resources
