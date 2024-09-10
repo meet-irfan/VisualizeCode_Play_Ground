@@ -1,0 +1,5 @@
+C:\Users\zohaib Bhai\source\repos\change_color\obj\Debug\change_color.csproj.AssemblyReference.cache
+C:\Users\zohaib Bhai\source\repos\change_color\obj\Debug\change_color.Form1.resources
+C:\Users\zohaib Bhai\source\repos\change_color\obj\Debug\change_color.Properties.Resources.resources
+C:\Users\zohaib Bhai\source\repos\change_color\obj\Debug\change_color.csproj.GenerateResource.cache
+C:\Users\zohaib Bhai\source\repos\change_color\obj\Debug\change_color.csproj.CoreCompileInputs.cache
