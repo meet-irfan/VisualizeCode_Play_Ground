@@ -1,0 +1,9 @@
+C:\Users\zohaib Bhai\source\repos\color\bin\Debug\color.exe.config
+C:\Users\zohaib Bhai\source\repos\color\bin\Debug\color.exe
+C:\Users\zohaib Bhai\source\repos\color\bin\Debug\color.pdb
+C:\Users\zohaib Bhai\source\repos\color\obj\Debug\color.Form1.resources
+C:\Users\zohaib Bhai\source\repos\color\obj\Debug\color.Properties.Resources.resources
+C:\Users\zohaib Bhai\source\repos\color\obj\Debug\color.csproj.GenerateResource.cache
+C:\Users\zohaib Bhai\source\repos\color\obj\Debug\color.csproj.CoreCompileInputs.cache
+C:\Users\zohaib Bhai\source\repos\color\obj\Debug\color.exe
+C:\Users\zohaib Bhai\source\repos\color\obj\Debug\color.pdb
