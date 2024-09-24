@@ -1,0 +1,10 @@
+C:\Users\zohaib Bhai\source\repos\Class_Task\bin\Debug\Class_Task.exe.config
+C:\Users\zohaib Bhai\source\repos\Class_Task\bin\Debug\Class_Task.exe
+C:\Users\zohaib Bhai\source\repos\Class_Task\bin\Debug\Class_Task.pdb
+C:\Users\zohaib Bhai\source\repos\Class_Task\obj\Debug\Class_Task.csproj.AssemblyReference.cache
+C:\Users\zohaib Bhai\source\repos\Class_Task\obj\Debug\Class_Task.Form1.resources
+C:\Users\zohaib Bhai\source\repos\Class_Task\obj\Debug\Class_Task.Properties.Resources.resources
+C:\Users\zohaib Bhai\source\repos\Class_Task\obj\Debug\Class_Task.csproj.GenerateResource.cache
+C:\Users\zohaib Bhai\source\repos\Class_Task\obj\Debug\Class_Task.csproj.CoreCompileInputs.cache
+C:\Users\zohaib Bhai\source\repos\Class_Task\obj\Debug\Class_Task.exe
+C:\Users\zohaib Bhai\source\repos\Class_Task\obj\Debug\Class_Task.pdb
