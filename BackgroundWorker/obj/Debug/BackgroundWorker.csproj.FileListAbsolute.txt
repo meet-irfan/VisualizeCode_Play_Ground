@@ -1,0 +1,10 @@
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.Form1.resources
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.cache
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+C:\Users\zohaib Bhai\source\repos\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
