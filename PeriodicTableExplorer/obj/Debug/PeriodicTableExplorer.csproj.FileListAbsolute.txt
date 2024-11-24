@@ -1,0 +1,10 @@
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\bin\Debug\PeriodicTableExplorer.exe.config
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\bin\Debug\PeriodicTableExplorer.exe
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\bin\Debug\PeriodicTableExplorer.pdb
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\obj\Debug\PeriodicTableExplorer.csproj.AssemblyReference.cache
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\obj\Debug\PeriodicTableExplorer.Form1.resources
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\obj\Debug\PeriodicTableExplorer.Properties.Resources.resources
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\obj\Debug\PeriodicTableExplorer.csproj.GenerateResource.cache
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\obj\Debug\PeriodicTableExplorer.csproj.CoreCompileInputs.cache
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\obj\Debug\PeriodicTableExplorer.exe
+C:\Users\zohaib Bhai\source\repos\PeriodicTableExplorer\obj\Debug\PeriodicTableExplorer.pdb
